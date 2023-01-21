@@ -9,7 +9,7 @@ on:
     - 'v*'
 
 env:
-  PROJECT_PATH: '/home/runner/work/DapperMicroOrm/DapperMicroOrm.csproj'
+  PROJECT_PATH: 'DapperMicroOrm/DapperMicroOrm/DapperMicroOrm/DapperMicroOrm.csproj'
   PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
   NUGET_SOURCE_URL: 'https://api.nuget.org/v3/index.json'
 
