@@ -10,13 +10,6 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <None Include="C:\Users\asger\Downloads\dapper.jpeg">
-	    <Pack>True</Pack>
-	    <PackagePath>\</PackagePath>
-	  </None>
-	</ItemGroup>
-
-	<ItemGroup>
 		<PackageReference Include="Dapper" Version="2.0.123" />
 		<PackageReference Include="PluralizeService.Core" Version="1.2.21147.2" />
 		<PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
